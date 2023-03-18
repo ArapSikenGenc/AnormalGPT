@@ -1,4 +1,4 @@
-#Not: Bu kodlar @Mr_Anormal Tarafından yazılmıştır bot daha yapım aşamasında ufak tefek hatalar olabilir güncellenecektir kullanacaksanız Cr vereceksiniz !!!
+#Not: Bu kodlar @Mr_Anormal Tarafından yazılmıştır bot daha yapım aşamasında ufak tefek hatalar olabilir güncellenecektir kullanacaksanız Cr vereceksiniz !!!!!
 
 import telebot
 
